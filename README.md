@@ -75,4 +75,4 @@ python3 mac_changer.py -h
 - The `ifconfig` command is deprecated in some systems in favor of `ip` commands, but it is still widely used in Kali.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+@itsjusthicham
